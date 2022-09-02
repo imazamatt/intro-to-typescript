@@ -1,6 +1,6 @@
 # Introduction to Typescript
 
-![](./images/TS_LOGO.png)
+<img src="./images/TS_LOGO.png" width="400" />
 
 ---
 
@@ -10,7 +10,7 @@
   * Any valid JavaScript, is valid Typescript
 * TypeScript adds additional developer features to JavaScript that are stripped away at compile time
 
-![](./images/TS_JS.png)
+<img src="./images/TS_JS.png" width="400" />
 
 * TypeScript is a static type checker
   * Detects errors in code without running it
